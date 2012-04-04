@@ -1,0 +1,1680 @@
+Tslida3
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Info.plist" slida3-Info.plist
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib"
+cCpResource appLogo.png build/Debug-iphonesimulator/slida3.app/appLogo.png
+cCpResource noRestImage.png build/Debug-iphonesimulator/slida3.app/noRestImage.png
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib"
+cCpResource tabBtn_ViewOrder.png build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png
+cCpResource tabBtn_Account.png build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png
+cCpResource DinerChoice_logo.png build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png
+cCpResource Template_top1.png build/Debug-iphonesimulator/slida3.app/Template_top1.png
+cCpResource tabBtn_Home.png build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png
+cCpResource imgView_Mail.png build/Debug-iphonesimulator/slida3.app/imgView_Mail.png
+cCpResource imgView_Phone.png build/Debug-iphonesimulator/slida3.app/imgView_Phone.png
+cCpResource imgView_Web.png build/Debug-iphonesimulator/slida3.app/imgView_Web.png
+cCpResource btn_Gps.png build/Debug-iphonesimulator/slida3.app/btn_Gps.png
+cCpResource tabBtn_Reservation.png build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png
+cCpResource tabBtn_Coupans.png build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib"
+cCpResource imgView_Rate.png build/Debug-iphonesimulator/slida3.app/imgView_Rate.png
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib"
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xib"
+cCpResource btn_Fav.png build/Debug-iphonesimulator/slida3.app/btn_Fav.png
+cCpResource btn_Star.png build/Debug-iphonesimulator/slida3.app/btn_Star.png
+cCpResource Template_center.png build/Debug-iphonesimulator/slida3.app/Template_center.png
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib"
+cCpResource btn_Minus.png build/Debug-iphonesimulator/slida3.app/btn_Minus.png
+cCpResource btn_Plus.png build/Debug-iphonesimulator/slida3.app/btn_Plus.png
+cCpResource Template_blue.png build/Debug-iphonesimulator/slida3.app/Template_blue.png
+cCpResource btn_StarGray.png build/Debug-iphonesimulator/slida3.app/btn_StarGray.png
+cCpResource btn_StarWhite.png build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png
+cCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xib"
+cCpResource btn_History.png build/Debug-iphonesimulator/slida3.app/btn_History.png
+cCpResource btn_NotFav.png build/Debug-iphonesimulator/slida3.app/btn_NotFav.png
+cProcessPCH /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch slida3_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3" normal i386
+cGenerateDSYMFile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3"
+cTouch "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h
+c000000004D5C9BDB00000000000006F1
+t1297914843
+s1777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D5C9BDB00000000000002FE
+t1297914843
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.h
+c000000004E0339690000000000000329
+t1308834153
+s809
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib
+c000000004E086722000000000000814F
+t1309173538
+s33103
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m
+c000000004E0EF0640000000000002E3E
+t1309601892
+s11838
+i"AddtoCart.h"
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m
+c000000004DF627AB0000000000001EAB
+t1307977643
+s7851
+i"ConfirmRegistration.h"
+i"AppDelegate.h"
+i"Home.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m
+c000000004E11BFF90000000000003921
+t1309786105
+s14625
+i"Coupons.h"
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m
+c000000004E169DF3000000000000205A
+t1310105075
+s8282
+i"home.h"
+i"RestaurantList.h"
+i"AppDelegate.h"
+i"Login.h"
+i"Favourites.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m
+c000000004E09C0080000000000002665
+t1309261832
+s9829
+i"AppDelegate.h"
+i"Login.h"
+i"Home.h"
+i"JoinNow.h"
+i"ConfirmRegistration.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.h
+c000000004E0C4CBE000000000000020C
+t1309428926
+s524
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m
+c000000004E11B5510000000000002A57
+t1309783377
+s10839
+i"RestaurantMenu.h"
+i"AppDelegate.h"
+i"AddtoCart.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.h
+c000000004E072E280000000000000434
+t1309093416
+s1076
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m
+c000000004E0DCE0E000000000000346B
+t1309527566
+s13419
+i"RestaurantReserve.h"
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m
+c000000004E1458C30000000000004AE0
+t1309956291
+s19168
+i"ViewOrders.h"
+i"ViewOrdersDetails.h"
+i"GetAddress.h"
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m
+c000000004E14787000000000000052B3
+t1309964400
+s21171
+i"ViewOrdersDetails.h"
+i"AppDelegate.h"
+i"AddtoCart.h"
+i"RestaurantDetail.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.h
+c000000004DFAF7F100000000000001E4
+t1308293105
+s484
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m
+c000000004E11C2200000000000003482
+t1309786656
+s13442
+i"AddCoupon.h"
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib
+c000000004E0605420000000000002C9D
+t1309017410
+s11421
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.h
+c000000004E10458100000000000010F8
+t1309689217
+s4344
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m
+c000000004E0B25C90000000000000F80
+t1309353417
+s3968
+i"AppDelegate.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.h
+c000000004E05F8CE00000000000008F1
+t1309014222
+s2289
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m
+c000000004E16C2CA0000000000003389
+t1310114506
+s13193
+i"AreaCoverageSetup.h"
+i<CoreLocation/CoreLocation.h>
+i"AppDelegate.h"
+i"Login.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib
+c000000004E0B12AA0000000000007A0B
+t1309348522
+s31243
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.h
+c000000004DF8B90600000000000001D1
+t1308145926
+s465
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m
+c000000004E16C0AF0000000000002C63
+t1310113967
+s11363
+i"Favourites.h"
+i"AppDelegate.h"
+i"Login.h"
+i"RestaurantList.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xib
+c000000004E06052C0000000000002CEF
+t1309017388
+s11503
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.h
+c000000004E0DCC77000000000000024C
+t1309527159
+s588
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m
+c000000004E0DE093000000000000136A
+t1309532307
+s4970
+i"GetAddress.h"
+i"AppDelegate.h"
+i"ViewOrdersDetails.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xib
+c000000004E0DC03200000000000099CB
+t1309524018
+s39371
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib
+c000000004E1081F30000000000007135
+t1309704691
+s28981
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.h
+c000000004E1013A6000000000000041D
+t1309676454
+s1053
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m
+c000000004E103D6F0000000000002D84
+t1309687151
+s11652
+i"JoinNow.h"
+i"AppDelegate.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib
+c000000004E101BBA000000000000DECB
+t1309678522
+s57035
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.h
+c000000004DE4DADC0000000000000282
+t1306843868
+s642
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m
+c000000004E0DEE250000000000003393
+t1309535781
+s13203
+i"Reservations.h"
+i"AppDelegate.h"
+i"Login.h"
+i"RestaurantReserve.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xib
+c000000004E1440A2000000000000442E
+t1309950114
+s17454
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.h
+c000000004E1190B300000000000006FA
+t1309774003
+s1786
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m
+c000000004E11D2D4000000000000586D
+t1309790932
+s22637
+i"RestaurantDetail.h"
+i"AppDelegate.h"
+i"RestaurantMenu.h"
+i"RestaurantReserve.h"
+i"AddCoupon.h"
+i"RestaurantOpenHours.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib
+c000000004E11C2FF000000000000C7F5
+t1309786879
+s51189
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.h
+c000000004DFB658100000000000001F2
+t1308321153
+s498
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m
+c000000004E14595800000000000038C8
+t1309956440
+s14536
+i"RestaurantList.h"
+i"RestaurantDetail.h"
+i"AppDelegate.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib
+c000000004E0605AF0000000000002B86
+t1309017519
+s11142
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.h
+c000000004E0323780000000000000128
+t1308828536
+s296
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m
+c000000004E0324000000000000000572
+t1308828672
+s1394
+i"RestaurantOpenHours.h"
+i"AppDelegate.h"
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib
+c000000004E0860230000000000002C41
+t1309171747
+s11329
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.h
+c000000004DF623E80000000000000266
+t1307976680
+s614
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib
+c000000004E05CF110000000000004E16
+t1309003537
+s19990
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.h
+c000000004E031F3000000000000001FF
+t1308827440
+s511
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib
+c000000004E06054D0000000000002ECB
+t1309017421
+s11979
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/DinerChoice_logo.png
+c000000004D4E96120000000000001013
+t1296995858
+s4115
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Home.h
+c000000004E10652B00000000000004FE
+t1309697323
+s1278
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.h
+c000000004DF9F65300000000000002D4
+t1308227155
+s724
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xib
+c000000004E07582900000000000063FC
+t1309104169
+s25596
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib
+c000000004E05A0D00000000000006E1D
+t1308991696
+s28189
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.h
+c000000004E0C4CBE000000000000020C
+t1309428926
+s524
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib
+c000000004E0605DA000000000000311E
+t1309017562
+s12574
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.h
+c000000004E072E280000000000000434
+t1309093416
+s1076
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib
+c000000004E0739950000000000008E13
+t1309096341
+s36371
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_blue.png
+c000000004E033ADF000000000001C615
+t1308834527
+s116245
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_center.png
+c000000004DFF5E64000000000001DCC3
+t1308581476
+s122051
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_top1.png
+c000000004D4EAD1E000000000000444C
+t1297001758
+s17484
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.h
+c000000004E09CCAA0000000000000313
+t1309265066
+s787
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xib
+c000000004E1451670000000000004AF7
+t1309954407
+s19191
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.h
+c000000004E1459210000000000000358
+t1309956385
+s856
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib
+c000000004E1455590000000000008666
+t1309955417
+s34406
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/appLogo.png
+c000000004D47A04700000000000022D5
+t1296539719
+s8917
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Fav.png
+c000000004DFA10CC000000000000095C
+t1308233932
+s2396
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Gps.png
+c000000004D5D21B30000000000000A8B
+t1297949107
+s2699
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_History.png
+c000000004E107EF500000000000008BF
+t1309703925
+s2239
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Minus.png
+c000000004E0334B50000000000000EA2
+t1308832949
+s3746
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_NotFav.png
+c000000004E119E2D0000000000000A30
+t1309777453
+s2608
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Plus.png
+c000000004E03347F0000000000000FF2
+t1308832895
+s4082
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Star.png
+c000000004DFB79830000000000000411
+t1308326275
+s1041
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_StarGray.png
+c000000004E089DC60000000000000DCB
+t1309187526
+s3531
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_StarWhite.png
+c000000004E089D730000000000000DC6
+t1309187443
+s3526
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AddCoupon.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AddtoCart.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AreaCoverageSetup.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ConfirmRegistration.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Coupons.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Favourites.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/GetAddress.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Home.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Info.plist
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/JoinNow.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Login.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/MainWindow.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/PkgInfo
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Reservations.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantDetail.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantList.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantMenu.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantOpenHours.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantReserve.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_blue.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_center.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_top1.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ViewOrders.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ViewOrdersDetails.nib
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/appLogo.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Fav.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Gps.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_History.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Minus.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_NotFav.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Plus.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Star.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_StarGray.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Mail.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Phone.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Rate.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Web.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/noRestImage.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/slida3.LinkFileList
+c000000004E16C3010000000000000A83
+t1310114561
+s2691
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Mail.png
+c000000004D5D164A000000000000084C
+t1297946186
+s2124
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Phone.png
+c000000004D5D197B0000000000000731
+t1297947003
+s1841
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Rate.png
+c000000004DC94AC10000000000000624
+t1305037505
+s1572
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Web.png
+c000000004D5D1B9D0000000000000C10
+t1297947549
+s3088
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m
+c000000004DC01E1E000000000000016F
+t1304436254
+s367
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/noRestImage.png
+c000000004D47B27A0000000000009F23
+t1296544378
+s40739
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/slida3_Prefix.pch
+c000000004CCECE1100000000000000B5
+t1288621585
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Account.png
+c000000004D4CFBCE0000000000000686
+t1296890830
+s1670
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Coupans.png
+c000000004DBD56F800000000000009A9
+t1304254200
+s2473
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Home.png
+c000000004D5CC7790000000000000689
+t1297926009
+s1673
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Reservation.png
+c000000004DBD46F70000000000000A35
+t1304250103
+s2613
+
+N/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_ViewOrder.png
+c000000004D4CE463000000000000092C
+t1296884835
+s2348
+
+N/var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch
+t2
+s0
+
+Nslida3-Info.plist
+c000000004E16A1CB0000000000000405
+t1310106059
+s1029
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m"
+r0
+
+CBuild AST from "/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf7042581fac6b341^5341b981fac6b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.517009
+e331807367.694150
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m2d798487fac6b341^99bcb187fac6b341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/AddCoupon.m0000000000000000^2178"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o Classes/AddCoupon.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddCoupon.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.485739
+e331807367.660198
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.mf27a7c87fac6b341^fe0ea987fac6b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../AddtoCart.m0000000000000000^2184"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o Classes/../AddtoCart.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../AddtoCart.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AddtoCart.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.112743
+e331807366.278684
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m83fc1c86fac6b341^1b634786fac6b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/AppDelegate.m0000000000000000^2186"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AppDelegate.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AppDelegate.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.279955
+e331807366.444982
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m8ac94786fac6b341^7efc7186fac6b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/AreaCoverageSetup.m0000000000000000^2210"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o Classes/AreaCoverageSetup.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/AreaCoverageSetup.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.367620
+e331807367.515695
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.mad6d5e87fac6b341^32048487fac6b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../ConfirmRegistration.m0000000000000000^2224"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o Classes/../ConfirmRegistration.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ConfirmRegistration.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ConfirmRegistration.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.693615
+e331807366.871052
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.mc8b1b186fac6b341^7afcde86fac6b341^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../Coupons.m0000000000000000^2176"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o Classes/../Coupons.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Coupons.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Coupons.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.661880
+e331807367.792999
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m6492a987fac6b341^d811cb87fac6b341^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/Favourites.m0000000000000000^2182"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o Classes/Favourites.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Favourites.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.794193
+e331807367.915362
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.mca6dcb87fac6b341^9354ea87fac6b341^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/GetAddress.m0000000000000000^2182"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o Classes/GetAddress.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/GetAddress.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.184565
+e331807366.345679
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m2d5f2f86fac6b341^1a895886fac6b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../Home.m0000000000000000^2164"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o Classes/../Home.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Home.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Home.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.131027
+e331807367.366052
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.mc5aa2187fac6b341^78b45d87fac6b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/JoinNow.m0000000000000000^2170"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o Classes/JoinNow.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/JoinNow.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.872295
+e331807367.096353
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.mce6cdf86fac6b341^8db41887fac6b341^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../Login.m0000000000000000^2168"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o Classes/../Login.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../Login.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Login.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.528969
+e331807366.717509
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m22888786fac6b341^f3adb786fac6b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/Reservations.m0000000000000000^2190"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o Classes/Reservations.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/Reservations.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.446299
+e331807366.692339
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.mb75f7286fac6b341^b649b186fac6b341^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantDetail.m0000000000000000^2206"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o Classes/RestaurantDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantDetail.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.346889
+e331807366.527755
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.md9ec5886fac6b341^7e1a8786fac6b341^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantList.m0000000000000000^2198"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o Classes/RestaurantList.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantList.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807365.996627
+e331807366.183341
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m0745ff85fac6b341^2bfb2e86fac6b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../RestaurantMenu.m0000000000000000^2204"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o Classes/../RestaurantMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantMenu.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantMenu.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.695368
+e331807367.801787
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m4b23b287fac6b341^cc40cd87fac6b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantOpenHours.m0000000000000000^2218"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o Classes/RestaurantOpenHours.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantOpenHours.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.940361
+e331807367.129819
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.mfcfff086fac6b341^b2462187fac6b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../RestaurantReserve.m0000000000000000^2216"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o Classes/../RestaurantReserve.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../RestaurantReserve.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/RestaurantReserve.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807366.718825
+e331807366.939127
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m7423b886fac6b341^0a6af086fac6b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../ViewOrders.m0000000000000000^2188"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o Classes/../ViewOrders.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrders.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrders.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807367.097589
+e331807367.474052
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m871a1987fac6b341^ba677987fac6b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/../ViewOrdersDetails.m0000000000000000^2216"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o Classes/../ViewOrdersDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/../ViewOrdersDetails.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/ViewOrdersDetails.o"
+
+CCompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807365.997733
+e331807366.111538
+r1
+xCompileC
+xbuild/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m3887ff85fac6b341^f6981c86fac6b341^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/main.m0000000000000000^2142"CompileC build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -include /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/main.m" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/main.o"
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib"
+s331807363.717523
+e331807363.857443
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib8bc5b783fac6b341^5281db83fac6b341^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/AddtoCart.xib0000000000000000^628"CompileXIB AddtoCart.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AddtoCart.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/AddtoCart.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib"
+s331807363.754709
+e331807363.786167
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib2250c183fac6b341^8142c983fac6b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/AddCoupon.xib0000000000000000^644"CompileXIB Classes/AddCoupon.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AddCoupon.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AddCoupon.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib"
+s331807361.760947
+e331807363.016134
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib6ee0c281fac6b341^d5200483fac6b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/AreaCoverageSetup.xib0000000000000000^668"CompileXIB Classes/AreaCoverageSetup.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/AreaCoverageSetup.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/AreaCoverageSetup.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xib"
+s331807363.787396
+e331807363.818243
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xibefa8c983fac6b341^ea77d183fac6b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/Favourites.xib0000000000000000^647"CompileXIB Classes/Favourites.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Favourites.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Favourites.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xib"
+s331807363.956698
+e331807364.042661
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xibd922f583fac6b341^f6eb0a84fac6b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/GetAddress.xib0000000000000000^647"CompileXIB Classes/GetAddress.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/GetAddress.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/GetAddress.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib"
+s331807362.914029
+e331807363.042275
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib5e13ea82fac6b341^46d20a83fac6b341^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/Home.xib0000000000000000^629"CompileXIB Classes/Home.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Home.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Home.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib"
+s331807363.606483
+e331807363.716295
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib41b79b83fac6b341^c85eb783fac6b341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/JoinNow.xib0000000000000000^638"CompileXIB Classes/JoinNow.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/JoinNow.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/JoinNow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xib"
+s331807363.343966
+e331807363.404494
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xibbc225883fac6b341^878c6783fac6b341^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/Reservations.xib0000000000000000^653"CompileXIB Classes/Reservations.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Reservations.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/Reservations.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib"
+s331807363.043512
+e331807363.505833
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib2a390b83fac6b341^3c888183fac6b341^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantDetail.xib0000000000000000^665"CompileXIB Classes/RestaurantDetail.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantDetail.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantDetail.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib"
+s331807363.017357
+e331807363.061118
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib55870483fac6b341^1aa50f83fac6b341^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantList.xib0000000000000000^659"CompileXIB Classes/RestaurantList.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantList.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantList.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib"
+s331807363.864401
+e331807363.928992
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib185edd83fac6b341^56d3ed83fac6b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Classes/RestaurantOpenHours.xib0000000000000000^674"CompileXIB Classes/RestaurantOpenHours.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantOpenHours.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Classes/RestaurantOpenHours.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib"
+s331807363.673965
+e331807363.730961
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib9da1ac83fac6b341^ff1fbb83fac6b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/ConfirmRegistration.xib0000000000000000^658"CompileXIB ConfirmRegistration.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ConfirmRegistration.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ConfirmRegistration.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib"
+s331807363.405935
+e331807363.434617
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib19026883fac6b341^b3446f83fac6b341^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Coupons.xib0000000000000000^622"CompileXIB Coupons.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Coupons.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Coupons.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xib"
+s331807363.474449
+e331807363.605253
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xiba3937983fac6b341^05329b83fac6b341^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/Login.xib0000000000000000^616"CompileXIB Login.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Login.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Login.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib"
+s331807361.760218
+e331807362.912805
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib74b4c281fac6b341^35b8e982fac6b341^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/MainWindow.xib0000000000000000^631"CompileXIB MainWindow.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/MainWindow.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib"
+s331807363.093806
+e331807363.199916
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib09381883fac6b341^b0393383fac6b341^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/RestaurantMenu.xib0000000000000000^643"CompileXIB RestaurantMenu.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantMenu.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantMenu.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib"
+s331807363.508157
+e331807363.599383
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib132c8283fac6b341^b5709983fac6b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/RestaurantReserve.xib0000000000000000^652"CompileXIB RestaurantReserve.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/RestaurantReserve.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/RestaurantReserve.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xib"
+s331807363.435962
+e331807363.473202
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xibc4b06f83fac6b341^60237983fac6b341^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/ViewOrders.xib0000000000000000^631"CompileXIB ViewOrders.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ViewOrders.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrders.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib"
+s331807363.600577
+e331807363.672720
+r1
+xCompileXIB
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib30d49983fac6b341^1e37ac83fac6b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/ViewOrdersDetails.xib0000000000000000^652"CompileXIB ViewOrdersDetails.xib    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/ViewOrdersDetails.nib" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/ViewOrdersDetails.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCpResource DinerChoice_logo.png build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png
+s331807363.231512
+e331807363.234554
+r1
+xCpResource
+xDinerChoice_logo.png
+xbuild/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png0c573b83fac6b341^950c3c83fac6b341^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png0000204d2205f041^533"CpResource DinerChoice_logo.png build/Debug-iphonesimulator/slida3.app/DinerChoice_logo.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/DinerChoice_logo.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource Template_blue.png build/Debug-iphonesimulator/slida3.app/Template_blue.png
+s331807363.924287
+e331807363.955840
+r1
+xCpResource
+xTemplate_blue.png
+xbuild/Debug-iphonesimulator/slida3.app/Template_blue.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/slida3.app/Template_blue.pngb3b7ec83fac6b341^64b2f483fac6b341^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_blue.png0000204d2205f041^524"CpResource Template_blue.png build/Debug-iphonesimulator/slida3.app/Template_blue.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_blue.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource Template_center.png build/Debug-iphonesimulator/slida3.app/Template_center.png
+s331807363.858979
+e331807363.876611
+r1
+xCpResource
+xTemplate_center.png
+xbuild/Debug-iphonesimulator/slida3.app/Template_center.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/slida3.app/Template_center.png01f8db83fac6b341^8674e083fac6b341^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_center.png0000204d2205f041^530"CpResource Template_center.png build/Debug-iphonesimulator/slida3.app/Template_center.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_center.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource Template_top1.png build/Debug-iphonesimulator/slida3.app/Template_top1.png
+s331807363.235722
+e331807363.260340
+r1
+xCpResource
+xTemplate_top1.png
+xbuild/Debug-iphonesimulator/slida3.app/Template_top1.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/slida3.app/Template_top1.pngf9693c83fac6b341^a0a64283fac6b341^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Template_top1.png0000204d2205f041^524"CpResource Template_top1.png build/Debug-iphonesimulator/slida3.app/Template_top1.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/Template_top1.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource appLogo.png build/Debug-iphonesimulator/slida3.app/appLogo.png
+s331807363.062453
+e331807363.084771
+r1
+xCpResource
+xappLogo.png
+xbuild/Debug-iphonesimulator/slida3.app/appLogo.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/slida3.app/appLogo.pngfc171083fac6b341^a9bc1583fac6b341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/appLogo.png0000204d2205f041^506"CpResource appLogo.png build/Debug-iphonesimulator/slida3.app/appLogo.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/appLogo.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_Fav.png build/Debug-iphonesimulator/slida3.app/btn_Fav.png
+s331807363.819452
+e331807363.847017
+r1
+xCpResource
+xbtn_Fav.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_Fav.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/slida3.app/btn_Fav.png77dbd183fac6b341^74ecd883fac6b341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Fav.png0000204d2205f041^506"CpResource btn_Fav.png build/Debug-iphonesimulator/slida3.app/btn_Fav.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Fav.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_Gps.png build/Debug-iphonesimulator/slida3.app/btn_Gps.png
+s331807363.323969
+e331807363.328342
+r1
+xCpResource
+xbtn_Gps.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_Gps.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/slida3.app/btn_Gps.pngbd005383fac6b341^ca175483fac6b341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Gps.png0000204d2205f041^506"CpResource btn_Gps.png build/Debug-iphonesimulator/slida3.app/btn_Gps.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Gps.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_History.png build/Debug-iphonesimulator/slida3.app/btn_History.png
+s331807363.970534
+e331807364.006654
+r1
+xCpResource
+xbtn_History.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_History.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/slida3.app/btn_History.png5188f883fac6b341^46b40184fac6b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_History.png0000204d2205f041^518"CpResource btn_History.png build/Debug-iphonesimulator/slida3.app/btn_History.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_History.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_Minus.png build/Debug-iphonesimulator/slida3.app/btn_Minus.png
+s331807363.877792
+e331807363.894213
+r1
+xCpResource
+xbtn_Minus.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_Minus.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/slida3.app/btn_Minus.png71cae083fac6b341^79ebe483fac6b341^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Minus.png0000204d2205f041^512"CpResource btn_Minus.png build/Debug-iphonesimulator/slida3.app/btn_Minus.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Minus.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_NotFav.png build/Debug-iphonesimulator/slida3.app/btn_NotFav.png
+s331807364.007856
+e331807364.027404
+r1
+xCpResource
+xbtn_NotFav.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_NotFav.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/slida3.app/btn_NotFav.pngac1c0284fac6b341^d1030784fac6b341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_NotFav.png0000204d2205f041^515"CpResource btn_NotFav.png build/Debug-iphonesimulator/slida3.app/btn_NotFav.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_NotFav.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_Plus.png build/Debug-iphonesimulator/slida3.app/btn_Plus.png
+s331807363.895447
+e331807363.923013
+r1
+xCpResource
+xbtn_Plus.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_Plus.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/slida3.app/btn_Plus.png6e52e583fac6b341^b35eec83fac6b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Plus.png0000204d2205f041^509"CpResource btn_Plus.png build/Debug-iphonesimulator/slida3.app/btn_Plus.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Plus.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_Star.png build/Debug-iphonesimulator/slida3.app/btn_Star.png
+s331807363.848305
+e331807363.863066
+r1
+xCpResource
+xbtn_Star.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_Star.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/slida3.app/btn_Star.pnge143d983fac6b341^88f3dc83fac6b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_Star.png0000204d2205f041^509"CpResource btn_Star.png build/Debug-iphonesimulator/slida3.app/btn_Star.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_Star.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_StarGray.png build/Debug-iphonesimulator/slida3.app/btn_StarGray.png
+s331807363.930404
+e331807363.954698
+r1
+xCpResource
+xbtn_StarGray.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_StarGray.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/slida3.app/btn_StarGray.pngdd43ee83fac6b341^6668f483fac6b341^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_StarGray.png0000204d2205f041^521"CpResource btn_StarGray.png build/Debug-iphonesimulator/slida3.app/btn_StarGray.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_StarGray.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource btn_StarWhite.png build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png
+s331807363.956203
+e331807363.969335
+r1
+xCpResource
+xbtn_StarWhite.png
+xbuild/Debug-iphonesimulator/slida3.app/btn_StarWhite.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png8b34f583fac6b341^7826f883fac6b341^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png0000204d2205f041^524"CpResource btn_StarWhite.png build/Debug-iphonesimulator/slida3.app/btn_StarWhite.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/btn_StarWhite.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource imgView_Mail.png build/Debug-iphonesimulator/slida3.app/imgView_Mail.png
+s331807363.293854
+e331807363.313073
+r1
+xCpResource
+ximgView_Mail.png
+xbuild/Debug-iphonesimulator/slida3.app/imgView_Mail.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/slida3.app/imgView_Mail.png724f4b83fac6b341^352a5083fac6b341^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Mail.png0000204d2205f041^521"CpResource imgView_Mail.png build/Debug-iphonesimulator/slida3.app/imgView_Mail.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Mail.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource imgView_Phone.png build/Debug-iphonesimulator/slida3.app/imgView_Phone.png
+s331807363.314519
+e331807363.317978
+r1
+xCpResource
+ximgView_Phone.png
+xbuild/Debug-iphonesimulator/slida3.app/imgView_Phone.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/slida3.app/imgView_Phone.png7c995083fac6b341^d7685183fac6b341^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Phone.png0000204d2205f041^524"CpResource imgView_Phone.png build/Debug-iphonesimulator/slida3.app/imgView_Phone.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Phone.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource imgView_Rate.png build/Debug-iphonesimulator/slida3.app/imgView_Rate.png
+s331807363.732170
+e331807363.753298
+r1
+xCpResource
+ximgView_Rate.png
+xbuild/Debug-iphonesimulator/slida3.app/imgView_Rate.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/slida3.app/imgView_Rate.pngc382bb83fac6b341^07eec083fac6b341^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Rate.png0000204d2205f041^521"CpResource imgView_Rate.png build/Debug-iphonesimulator/slida3.app/imgView_Rate.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Rate.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource imgView_Web.png build/Debug-iphonesimulator/slida3.app/imgView_Web.png
+s331807363.319440
+e331807363.322595
+r1
+xCpResource
+ximgView_Web.png
+xbuild/Debug-iphonesimulator/slida3.app/imgView_Web.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/slida3.app/imgView_Web.png13d75183fac6b341^70965283fac6b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/imgView_Web.png0000204d2205f041^518"CpResource imgView_Web.png build/Debug-iphonesimulator/slida3.app/imgView_Web.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/imgView_Web.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource noRestImage.png build/Debug-iphonesimulator/slida3.app/noRestImage.png
+s331807363.085972
+e331807363.092622
+r1
+xCpResource
+xnoRestImage.png
+xbuild/Debug-iphonesimulator/slida3.app/noRestImage.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/slida3.app/noRestImage.pngec151683fac6b341^4ab51783fac6b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/noRestImage.png0000204d2205f041^518"CpResource noRestImage.png build/Debug-iphonesimulator/slida3.app/noRestImage.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/noRestImage.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource tabBtn_Account.png build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png
+s331807363.227209
+e331807363.230221
+r1
+xCpResource
+xtabBtn_Account.png
+xbuild/Debug-iphonesimulator/slida3.app/tabBtn_Account.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png9a3f3a83fac6b341^8df03a83fac6b341^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png0000204d2205f041^527"CpResource tabBtn_Account.png build/Debug-iphonesimulator/slida3.app/tabBtn_Account.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Account.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource tabBtn_Coupans.png build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png
+s331807363.335049
+e331807363.342750
+r1
+xCpResource
+xtabBtn_Coupans.png
+xbuild/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png5ed55583fac6b341^83bf5783fac6b341^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png0000204d2205f041^527"CpResource tabBtn_Coupans.png build/Debug-iphonesimulator/slida3.app/tabBtn_Coupans.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Coupans.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource tabBtn_Home.png build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png
+s331807363.261554
+e331807363.292437
+r1
+xCpResource
+xtabBtn_Home.png
+xbuild/Debug-iphonesimulator/slida3.app/tabBtn_Home.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png5b0b4383fac6b341^eee94a83fac6b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png0000204d2205f041^518"CpResource tabBtn_Home.png build/Debug-iphonesimulator/slida3.app/tabBtn_Home.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Home.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource tabBtn_Reservation.png build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png
+s331807363.329771
+e331807363.333650
+r1
+xCpResource
+xtabBtn_Reservation.png
+xbuild/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png287e5483fac6b341^f06a5583fac6b341^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png0000204d2205f041^539"CpResource tabBtn_Reservation.png build/Debug-iphonesimulator/slida3.app/tabBtn_Reservation.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_Reservation.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CCpResource tabBtn_ViewOrder.png build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png
+s331807363.201144
+e331807363.225818
+r1
+xCpResource
+xtabBtn_ViewOrder.png
+xbuild/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png9f923383fac6b341^47c73983fac6b341^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png0000204d2205f041^533"CpResource tabBtn_ViewOrder.png build/Debug-iphonesimulator/slida3.app/tabBtn_ViewOrder.png    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sakthivelm/ApptiveLogic Projects/Dyner/tabBtn_ViewOrder.png" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
+CGenerateDSYMFile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM" "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3"
+s331807367.973743
+e331807368.053328
+r1
+xGenerateDSYMFile
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generating /Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYMb85cf987fac6b341^dba50d88fac6b341^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM0000204d2205f041^514"GenerateDSYMFile build/Debug-iphonesimulator/slida3.app.dSYM build/Debug-iphonesimulator/slida3.app/slida3    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3" -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app.dSYM"
+
+CLd "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3" normal i386
+s331807367.917498
+e331807367.971614
+r1
+xLd
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida361faea87fac6b341^d4bbf887fac6b341^---0#0#0#--1043"Ld build/Debug-iphonesimulator/slida3.app/slida3 normal i386    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -filelist "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/Objects-normal/i386/slida3.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/slida3"
+
+CProcessInfoPlistFile "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Info.plist" slida3-Info.plist
+s331807361.752445
+e331807361.756456
+r1
+xProcessInfoPlistFile
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Info.plist
+xslida3-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Process slida3-Info.plistc8b2c081fac6b341^1aa7c181fac6b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/slida3-Info.plist0000000000000000^592"ProcessInfoPlistFile build/Debug-iphonesimulator/slida3.app/Info.plist slida3-Info.plist    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility slida3-Info.plist -genpkginfo "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app/Info.plist"
+
+CProcessPCH /Users/sakthivelm/Library/Developer/Xcode/DerivedData/slida3-atmyhjcqitkvfwebbzrnkgseilyg/Index/PrecompiledHeaders/slida3_Prefix-dwhwybzajsenxkbhqcgnfserhucd_ast/slida3_Prefix.pch.pth slida3_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch slida3_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331807364.046566
+e331807365.994675
+r1
+xProcessPCH
+x/var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch
+xslida3_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile slida3_Prefix.pch2c0d0c84fac6b341^edd2fe85fac6b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sakthivelm/ApptiveLogic%20Projects/Dyner/slida3_Prefix.pch0000000000000000^2121"ProcessPCH /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch slida3_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-generated-files.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-own-target-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-all-target-headers.hmap" -iquote "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/slida3-project-headers.hmap" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/include" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources/i386" "-I/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/slida3.build/Debug-iphonesimulator/slida3.build/DerivedSources" "-F/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator" -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/slida3_Prefix.pch" -o /var/folders/CK/CKDg-xfxHGSOIYdwaj2QxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slida3_Prefix-dvuvhhjglhscpqdducdpifvrhvam/slida3_Prefix.pch.gch
+
+CTouch "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+s331807368.056747
+e331807368.065655
+r1
+xTouch
+x/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.appe09f0e88fac6b341^e6ce1088fac6b341^---0#0#0#--340"Touch build/Debug-iphonesimulator/slida3.app    cd "/Users/sakthivelm/ApptiveLogic Projects/Dyner"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sakthivelm/ApptiveLogic Projects/Dyner/build/Debug-iphonesimulator/slida3.app"
+
